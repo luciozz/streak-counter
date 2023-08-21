@@ -7,7 +7,7 @@ function shouldIncrementOrResetStreakCount(
     lastLoginDate: string,
 ): 'increment' | 'reset' | 'none' {
     // We get 11/5/2021
-    // so to get 5, we use our helper function
+    // so to get 5, we use our helper function.
     const difference = differenceInDays(currentDate, new Date(lastLoginDate));
     
     if (difference === 0) {
