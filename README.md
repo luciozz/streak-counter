@@ -1,6 +1,7 @@
 # streak-counter
-a streak counter for the browser, inspired by Duolingo
+[![Edit streak-counter (ts-course) (forked)](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/streak-counter-ts-course-forked-7d7y3w?fontsize=14&hidenavigation=1&theme=dark)
 
+a streak counter for the browser, inspired by Duolingo
 # `@siuol/streak-counter` - a basic streak counter
 
 This is a basic streak counter - inspired by duolingo - written in typescript and meant for the browser (uses ``localstorage`).
